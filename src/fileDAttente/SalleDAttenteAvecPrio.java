@@ -31,6 +31,8 @@ public class SalleDAttenteAvecPrio<TC extends AvecPrio> extends HashMap<Integer,
 			salle.put(i,new ArrayList<TC>());
 		}
 	}
+
+	// modif test
 	
 
 	@Override
